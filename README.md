@@ -1,6 +1,6 @@
 # Hi there 👋
 
 - 🌱 I am a final year B.Tech student | Seeking new opportunities
-- 🌍 I'm Junior Software Engineer at [EPAM Systems](https://www.epam.com).
+- 🌍 I'm Software Engineer at [EPAM Systems](https://www.epam.com).
 - 👯 I’m looking to collaborate on good projects in Java and javascript...
 - 💬 Ask me about Java...
