@@ -1,6 +1,5 @@
 ![logo](https://github.com/garg-arpit/garg-arpit/blob/main/github-header-image.png)
 <img align="right" alt="coding" width="20%" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
 <h3 align="left" width="80%">
   <ul>
     <li>
