@@ -1,6 +1,6 @@
 ![logo](https://github.com/garg-arpit/garg-arpit/blob/main/github-header-image.png)
 <img align="right" alt="coding" width="30%" height="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-### Glad to see you here!
+### Glad to see you here!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 - A passionate Java Developer with 2+ years of experience in developing and maintaining object-oriented solutions and currently associated with **[EPAM Systems](https://www.epam.com/)**. 
 - A creative and detailed individual with ability to develop effective and efficient solutions with zero tolerance for errors. Looking to join a progressive technical company where my technical skills will be fully harnessed. 
