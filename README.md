@@ -1,6 +1,6 @@
 ![logo](https://github.com/garg-arpit/garg-arpit/blob/main/github-header-image.png)
 <img align="right" alt="coding" width="20%" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<h3 align="left" width="80%">
+<h4 align="left" width="80%">
   <ul>
     <li>
   A creative and detailed individual with ability to develop effective and efficient solutions with zero tolerance for errors. Looking to join a progressive technical company where my technical skills will be fully harnessed. 
@@ -9,6 +9,7 @@
   A passionate Java Developer with 2+ years of experience in developing and maintaining object-oriented solutions and currently associated with EPAM Systems.</h3>
 </li>
   </ul>
+  </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garg-arpit&label=Profile%20views&color=0e75b6&style=flat" alt="garg-arpit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garg-arpit" alt="garg-arpit" /></a> </p>
