@@ -1,18 +1,15 @@
-<table class="images" width="100%"  style="border:0px solid white; width:100%;">
-  <tbody>
-  <tr style="border: 0px;">
-    <td width="65%" style="border:0px solid white; width:84%">
-      <img align="left" alt="coding" width="100%" src="https://github.com/garg-arpit/garg-arpit/blob/main/github-header-image.png">
-    </td>
-    <td width="35%" style="border:0px solid white; width:15%">
-      <img align="left" alt="coding" width="95%" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-    </td>
-  </tr>
-  </tbody>
-</table>
-<br>
-<h3 align="center">A passionate Java Developer with 2+ years of experience in developing and maintaining object-oriented solutions in Java and currently associated with EPAM Systems.</h3>
+![logo](https://github.com/garg-arpit/garg-arpit/blob/main/github-header-image.png)
+<img align="right" alt="coding" width="20%" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
+<h3 align="left" width="80%">
+  <ul>
+    <li>
+  A creative and detailed individual with ability to develop effective and efficient solutions with zero tolerance for errors. Looking to join a progressive technical company where my technical skills will be fully harnessed. 
+    </li>
+    <li>
+  A passionate Java Developer with 2+ years of experience in developing and maintaining object-oriented solutions and currently associated with EPAM Systems.</h3>
+</li>
+  </ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garg-arpit&label=Profile%20views&color=0e75b6&style=flat" alt="garg-arpit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garg-arpit" alt="garg-arpit" /></a> </p>
